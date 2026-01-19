@@ -1,0 +1,3 @@
+Car Toyota Camry 2005 Red G253CC 1400 110 190 
+SportsCar Ferrari F45 1995 Yellow Q959QQ 1200 350 300 3.8 Задний 
+Truck MAN TGX 2020 Blue T567NM 5000 450 120 20000 3 

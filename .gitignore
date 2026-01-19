@@ -1,0 +1,45 @@
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.sdf
+
+# Build directories
+Debug/
+Release/
+x64/
+build/
+out/
+
+# Compiled files
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+*.ilk
+*.pdb
+
+# Precompiled headers
+*.gch
+*.pch
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
